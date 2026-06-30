@@ -29,7 +29,7 @@ This project analyzes an e-commerce sales dataset containing **9,694 records**. 
 
 ## 📈 Dashboard Preview
 
-![Dashboard](screenshots/dashboard/11_dashboard_overview.png)
+![Dashboard](Ecommerce-Sales-Analytics/screenshots/PowerBi/dashboard_overview.png)
 
 ---
 
