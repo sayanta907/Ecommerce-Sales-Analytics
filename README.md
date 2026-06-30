@@ -153,17 +153,3 @@ Ecommerce-Sales-Analytics/
 - Charts
 
 ---
-
-## 📬 Contact
-
-**Sayanta Mukherjee**
-
-LinkedIn: *(Add your LinkedIn URL)*
-
-GitHub: *(Add your GitHub URL)*
-
-Email: *(Add your email if you want recruiters to contact you)*
-
----
-
-⭐ If you found this project useful, consider giving it a star!
